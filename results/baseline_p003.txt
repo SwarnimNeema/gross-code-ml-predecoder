@@ -1,0 +1,3 @@
+10000 shots at p=0.003, 12 cycles, failures listed as [X Z]
+bposd      failures [36 23] of 10000  per cycle 4.93e-04 +- 6.4e-05  mean 88.5 ms  p99 576 ms
+relay-bp   failures [3 4] of 10000  per cycle 5.84e-05 +- 2.2e-05  mean 63.6 ms  p99 435 ms
